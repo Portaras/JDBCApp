@@ -38,7 +38,7 @@ class TestApp{
                         String sname = resultSet.getString(2);
                         int sage = resultSet.getInt(3);
                         String saddr = resultSet.getString(4);
-                        System.out.println(sid+"\t"+sname+"\t"+sage+"\t "+saddr);
+                        System.out.println(sid+"\t"+sname+"\t"+sage+"\t"+saddr);
 
                     }
                 }
